@@ -1,4 +1,4 @@
-<img width="1195" height="991" alt="05-curl-head-terminal png" src="https://github.com/user-attachments/assets/21a7a7f3-4d1e-481d-8996-3ece42855d3e" /># Network Traffic Analysis with Wireshark
+# Network Traffic Analysis with Wireshark
 
 Hands-on packet analysis from a SOC Level 1 perspective. The project starts by learning what **normal** DNS, TCP and HTTP traffic looks like, then moves on to recognising the **attacks** an analyst sees day to day.
 
