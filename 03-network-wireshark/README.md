@@ -208,25 +208,17 @@ Plus `Date`, `Expires` and a report-only `Content-Security-Policy` header.
 
 ## Screenshots
 
+
 | Task | Screenshot |
 |---|---|
 | 1 | ![nslookup output](screenshots/01-nslookup-terminal.png) |
-
 | 1 | ![DNS packet list](screenshots/02-dns-packet-list.png) |
-
-| 1 | ![DNS query detail](screenshots/03-dns-query-detail.png) | 
-
+| 1 | ![DNS query detail](screenshots/03-dns-query-detail.png) |
 | 1 | ![Follow UDP stream](screenshots/04-dns-follow-udp-stream.png) |
-
 | 2 | ![curl command](screenshots/05-curl-head-terminal.png) |
-
 | 2 | ![tcp.port == 80](screenshots/06-tcp-port-80.png) |
-
 | 2 | ![Abandoned IPv4 connection](screenshots/07-tcp-rst-ipv4-stream.png) |
-
 | 2 | ![Complete handshake and teardown](screenshots/08-tcp-handshake-teardown.png) |
-
 | 2 | ![Flow graph](screenshots/09-tcp-flow-graph.png) |
-
-| 3 | ![Follow HTTP stream](screenshots/10-http-follow-stream.png) 
+| 3 | ![Follow HTTP stream](screenshots/10-http-follow-stream.png) |
 
