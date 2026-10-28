@@ -1,4 +1,4 @@
-# Network Traffic Analysis with Wireshark
+<img width="1195" height="991" alt="05-curl-head-terminal png" src="https://github.com/user-attachments/assets/21a7a7f3-4d1e-481d-8996-3ece42855d3e" /># Network Traffic Analysis with Wireshark
 
 Hands-on packet analysis from a SOC Level 1 perspective. The project starts by learning what **normal** DNS, TCP and HTTP traffic looks like, then moves on to recognising the **attacks** an analyst sees day to day.
 
@@ -210,14 +210,24 @@ Plus `Date`, `Expires` and a report-only `Content-Security-Policy` header.
 
 | Task | Screenshot |
 |---|---|
-| 1 | ![nslookup output](screenshots/01-nslookup-terminal.png) |
-| 1 | ![DNS packet list](screenshots/02-dns-packet-list.png) |
-| 1 | ![DNS query detail](screenshots/03-dns-query-detail.png) |
-| 1 | ![Follow UDP stream](screenshots/04-dns-follow-udp-stream.png) |
-| 2 | ![curl command](screenshots/05-curl-head-terminal.png) |
-| 2 | ![tcp.port == 80](screenshots/06-tcp-port-80.png) |
-| 2 | ![Abandoned IPv4 connection](screenshots/07-tcp-rst-ipv4-stream.png) |
-| 2 | ![Complete handshake and teardown](screenshots/08-tcp-handshake-teardown.png) |
-| 2 | ![Flow graph](screenshots/09-tcp-flow-graph.png) |
-| 3 | ![Follow HTTP stream](screenshots/10-http-follow-stream.png) |
+| 1 | ![nslookup output](screenshots/01-nslookup-terminal.png) |<img width="946" height="1027" alt="01-nslookup-terminal png" src="https://github.com/user-attachments/assets/d80df668-fbcb-4afb-9aa9-6233ab102fb2" />
+
+| 1 | ![DNS packet list](screenshots/02-dns-packet-list.png) | <img width="945" height="1017" alt="02-dns-packet-list png" src="https://github.com/user-attachments/assets/6d060291-18af-48c0-9cb5-521486f98da5" />
+
+| 1 | ![DNS query detail](screenshots/03-dns-query-detail.png) | <img width="1221" height="1007" alt="03-dns-query-detail png" src="https://github.com/user-attachments/assets/c368e59f-00f2-4ba6-b13b-89bb4fff67e6" />
+
+| 1 | ![Follow UDP stream](screenshots/04-dns-follow-udp-stream.png) |<img width="1217" height="990" alt="04-dns-follow-udp-stream png" src="https://github.com/user-attachments/assets/a14c288b-8ca2-4213-9e18-cebde5c6aefb" />
+
+| 2 | ![curl command](screenshots/05-curl-head-terminal.png) |<img width="1195" height="991" alt="05-curl-head-terminal png" src="https://github.com/user-attachments/assets/bd512da6-ae4f-46a0-9e21-7f6ed2c5c7c8" />
+
+| 2 | ![tcp.port == 80](screenshots/06-tcp-port-80.png) |<img width="1215" height="997" alt="06-tcp-port-80 png" src="https://github.com/user-attachments/assets/b596e541-a982-41a3-8998-f89f20f151cd" />
+
+| 2 | ![Abandoned IPv4 connection](screenshots/07-tcp-rst-ipv4-stream.png) |<img width="1207" height="1007" alt="07-tcp-rst-ipv4-stream png" src="https://github.com/user-attachments/assets/ace88673-3832-4ec9-8e7e-8b10252eaf73" />
+
+| 2 | ![Complete handshake and teardown](screenshots/08-tcp-handshake-teardown.png) |<img width="1107" height="1012" alt="08-tcp-handshake-teardown png" src="https://github.com/user-attachments/assets/7516de65-835f-4612-8bcb-51bead426c59" />
+
+| 2 | ![Flow graph](screenshots/09-tcp-flow-graph.png) |<img width="1192" height="1001" alt="09-tcp-flow-graph png" src="https://github.com/user-attachments/assets/130f5c4e-bb74-488e-a77b-01b23746fb79" />
+
+| 3 | ![Follow HTTP stream](screenshots/10-http-follow-stream.png) |![Uploading 10-http-follow-stream.png.png…]()
+
 
